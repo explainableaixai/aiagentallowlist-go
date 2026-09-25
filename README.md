@@ -117,7 +117,7 @@ Security guidance for LLM applications, including the OWASP Top 10 for LLM Appli
 
 ## Adjacent controls
 
-- Agents also call other AI services. The register used to [block unsanctioned AI tools on company devices](https://www.aitoolsblocklist.com) covers those too.
+- Agents also call other AI services. The register used to [block unsanctioned AI tools on company devices](https://www.aitoolsblocklist.com/mdm-ai-app-blocking.php) covers those too.
 - Agents and assistants often run without IT's knowledge. [Detect unauthorized AI tool usage](https://www.shadowaitools.com/detection-methodology.php) in proxy logs before it causes surprises.
 - Policies that depend on subject matter can use a [URL classification API](https://www.websitecategorizationapi.com/api-docs.php) for every URL an agent visits.
 
